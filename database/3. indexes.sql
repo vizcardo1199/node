@@ -1,0 +1,1 @@
+alter table surveys add INDEX users_surveys_idx USING BTREE (row_users ASC);

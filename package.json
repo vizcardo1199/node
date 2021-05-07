@@ -8,8 +8,8 @@
     "start": "node app.js"
   },
   "keywords": [],
-  "author": "Luis Vizcardo Manrique",
-  "license": "ISC",
+  "author": "For Jhoysi Casas ",
+  "license": "ISC & MIT",
   "devDependencies": {
     "express": "^4.17.1",
     "mysql": "^2.18.1",
